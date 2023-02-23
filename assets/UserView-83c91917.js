@@ -1,0 +1,1 @@
+import{_ as n,R as a,r as e,o as s,c,d as o,F as p}from"./index-d8e4ca91.js";import{N as _}from"./NavbarComponent-88e03c81.js";import"./apiStore-d952c623.js";const m={components:{RouterView:a,Navbar:_}};function i(u,f,l,d,v,w){const r=e("navbar"),t=e("router-view");return s(),c(p,null,[o(r),o(t)],64)}const N=n(m,[["render",i]]);export{N as default};
