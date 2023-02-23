@@ -1,0 +1,1 @@
+import{h as e}from"./index-9e937c02.js";const a=e("apiStore",{state:()=>({apiUrl:"https://vue3-course-api.hexschool.io/",apiPath:"ryantsai"}),getters:{VITE_API:({apiUrl:t})=>t,VITE_PATH:({apiPath:t})=>t}});export{a};
